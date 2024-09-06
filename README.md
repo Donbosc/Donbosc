@@ -1,5 +1,3 @@
-Hey @Donbosc! It looks like you’ve got a great template here. How about filling it out with some specifics? Here’s a quick guide to help:
-
 - 👋 Hi, I’m @Donbosc
 - 👀 I’m interested in software development, cyber security data science, creative writing
 - 🌱 I’m currently learning new programming language, machine learning, graphic design, Python 
